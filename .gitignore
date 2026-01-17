@@ -1,0 +1,18 @@
+# --- .NET / C# Build Artifacts ---
+[Bb]in/
+[Oo]bj/
+
+# --- IDE / Editor Specific ---
+.vscode/
+.vs/
+*.user
+
+# --- File types (Wildcards are good here) ---
+*.exe
+*.dll
+*.pdb
+*.suo
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
